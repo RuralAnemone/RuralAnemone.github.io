@@ -24,4 +24,4 @@ wow
 
 </details>
 
-<details>
+</details>
