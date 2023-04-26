@@ -1,6 +1,6 @@
-# RuralAnemone.github.io
+# h1 title
 
-## projects
+## some of my projects
 
 [bookmarklets](bookmarklets)
 
